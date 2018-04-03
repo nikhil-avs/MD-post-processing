@@ -1,13 +1,6 @@
-! SECOND VERSION OF INTERMITTENT HBOND TIME CORRELATION FUNCTION -- BMIM-CL-BF4 system
+! OPENMP VERSION OF INTERMITTENT HBOND TIME CORRELATION FUNCTION -- BMIM-CL-BF4 system
 
-! Last modified : 01 April 2018 by Nikhil 
-
-! Varible description :
-! Some information about the topology is hard-coded
-! c_ring stores the centroid position of the ring
-! vy_ring vector --> centroid to CR atom
-! vz_ring vector --> is the plane normal
-! 
+! Last modified : 03 April 2018 by Nikhil 
 
 MODULE read_dump
     USE ISO_FORTRAN_ENV
@@ -150,7 +143,7 @@ MODULE vector_ops
     END SUBROUTINE v_normalize
 END MODULE vector_ops
 
-PROGRAM sdf
+PROGRAM itcf
     USE read_dump
     USE vector_ops
     IMPLICIT NONE
@@ -486,4 +479,4 @@ PROGRAM sdf
             END IF
         END IF
     END SUBROUTINE id_hbond
-END PROGRAM sdf
+END PROGRAM itcf
