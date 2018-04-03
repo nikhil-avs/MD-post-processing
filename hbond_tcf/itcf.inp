@@ -1,0 +1,40 @@
+dump file name =
+/home/nikhil/projects/1_BIL_project/benchmark_run/bmim_cl_bf4/256_256/nvt/0.1ps-dump/dump-0.1ps.nvt
+dump frequency (in ps per frame) =
+0.1
+rcut of H-Cl = 
+4.325
+rcut of H-B = 
+4.975
+rcut of H-F =
+3.125
+angle cutoff for Hbonds (in degrees) =
+60.0
+total number of frames = 
+1001
+number of frames to skip =  
+1
+number of il1 ions = 
+256
+number of il2 ions = 
+256
+number of atoms in cation = 
+25
+number of atoms in anion1 = 
+1
+number of atoms in anion2 = 
+5
+cation ring atoms = 
+1 2 3 4 5
+cation acidic hydrogen = 
+13
+cation ring hydrogens = 
+11 12
+cation tail = 
+10
+anion1 center = 
+1
+anion2 B center = 
+1
+anion2 F centers =
+2 3 4 5
