@@ -1,0 +1,16 @@
+# PRESSURE TENSOR DATA FILE ==
+/home/nsm_archive_2/projects/2-water/viscosity/spce/Production_energy_transport/signac-project/workspace/09700343ea0a74f500aa66fe5012315b/1/gk-visc/1/../../nve-stresstensor.dat
+# SUFFIX NAME ==
+1
+# VOLUME ==
+17388.575
+# TEMPERATURE ==
+520.0
+# DELT (real units) difference between two ptens dumps == 
+1
+# NUMBER OF LINES TO SKIP ==
+2
+# NUMBER OF VALUES TO PROCESS ==
+2000000
+# FRACTION OF VALUES TO PROCESS ==
+1.0

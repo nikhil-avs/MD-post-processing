@@ -1,0 +1,4 @@
+To compile the GPU code:
+1. load the nvidia HPC SDK module: module load libs/nvidia-hpc-sdk/default
+2. complile the code: nvfortran -acc -O3 -o gk-gpu-water.x gk-gpu-water.F08
+3. Run the code: nohup ./gk-gpu-water.x gk-gpu-water.inp 1> out 2> err &
