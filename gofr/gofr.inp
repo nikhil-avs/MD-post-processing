@@ -1,0 +1,14 @@
+## TRAJECTORY FILE NAME (XTC) ## ==
+/home/nikhil/projects/8_extend_BIL/welton-structures/mb-v1/bmim-cl-ntf2/0.50/3-nvt/nvt.xtc
+## INDEX FILE NAME (NDX) ## ==
+alphas-bmim-cl-ntf2-0p50.ndx
+## SUFFIX ## ==
+test
+## RBIN SIZE (NM) ## ==
+0.002
+## RCUT SIZE (NM) (IF LESS THAN RBIN USES BOX_SIZE/2) ## ==
+0.0
+## SKIP FRAMES ## ==
+5
+## PROCESS FRAMES ## ==
+4
