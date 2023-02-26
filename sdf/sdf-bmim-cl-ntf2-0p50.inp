@@ -1,0 +1,30 @@
+## TRAJECTORY FILE NAME (XTC) ## == 
+/home/bala/nikhil/projects/8_extend_BIL/welton-structures/mb-v1/bmim-cl-ntf2/0.50/3-nvt/nvt-mol-nojump-0.50.xtc
+## SUFFIX ## ==
+0p50
+#### RBIN SIZE (NM) #### ==
+0.04
+#### RCUT SIZE (NM) (IF LESS THAN RBIN USES BOX_SIZE/2) #### ==
+1.6 1.6 1.6
+## BMIM RING INDICES ## ==
+1 3 5 6 7
+## CR, NA(butyl) INDICES (FOR AXES DEFINITION) ## ==
+7 5
+## HA AND HB INDICES (FOR SECOND COORD SHELL) ## ==
+8 2 4
+## N (TFSI) INDICES ## ==
+1
+## O (TFSI) INDICES ## ==
+3 4 10 11
+## F (TFSI) INDICES ## ==
+6 7 8 13 14 15 
+###### BMIM CL TFSI ###### ==
+2048 1024 1024
+###### RCUT (CL TFSI) -NM- ###### ==
+0.67300  0.81900
+###### CONDITIONAL COORD NUM (CL TFSI) ###### ==
+2 3
+#### SKIP FRAMES #### ==
+0
+#### PROCESS FRAMES #### ==
+10
