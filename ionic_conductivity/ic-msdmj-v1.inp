@@ -1,0 +1,18 @@
+# XTC FILE NAME ==
+/home1/nikhil/projects/7_smt_project/3-post-lj-refinement/results-oct2020/nikhil/deme-tfsi/ionic-conductivity/313.15/init-test-01nov/nvt1/nvt-ic-nojump.xtc
+# SUFFIX NAME ==
+test04nov2020
+# NUM DEME, TFSI RESIDUES == 
+128 128
+# NET ION CHARGE == 
+0.8024
+# TOTAL NUMBER OF FRAMES ==
+4200
+# SKIP FRAMES == 
+200
+# SKIP T0 FRAMES == 
+1
+# TIME PER FRAME (IN PS) == 
+0.5
+# TEMPERATURE == 
+313.15
