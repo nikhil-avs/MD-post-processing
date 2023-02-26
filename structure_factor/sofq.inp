@@ -1,0 +1,38 @@
+###### GOFR DIRECTORY ## ==
+/home/nikhil/projects/8_extend_BIL/welton-structures/mb-v1/bmim-cl-ntf2/0.50/3-nvt/analyse/gofr-all/20-25ns/data-agnostic/
+###### INDEX FILE NAME (NDX) ## ==
+/home/nikhil/projects/8_extend_BIL/welton-structures/mb-v1/bmim-cl-ntf2/0.50/topology/alphas.ndx
+###### BOX SIZE (ANGSTROM) ## ==
+93.1163
+###### NUMBER OF DISTANCE CENTERS ## ==
+2327
+###### SKIP DISTANCE CENTERS (FROM THE END) ## ==
+327
+## NUMBER OF SPECIES (MOLECULE TYPES LIKE BMIM, NTF2, CL) ## ==
+3
+## NAMES OF EACH SPECIES ## ==
+BMI
+NTF
+CL
+## NUMBER OF GROUPS IN EACH SPECIES ## ==
+18 5 1
+## GROUPS IN EACH SPECIES ## ==
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+19 20 21 22 23  
+24
+## RBIN SIZE (ANG) ## ==
+0.02
+## DELQ (1/ANG) ## ==
+0.01
+## QMIN, QMAX ## ==
+0.200    20.0
+## FORM FACTORS PATH ## ==
+/home/nikhil/projects/form_factors/
+## FORM FACTOR DATA (NUMBER) ## ==
+62
+## GOFR PREFIX ## ==
+gofr-agn
+## GOFR SUFFIX ## ==
+20-25ns
+###### SUFFIX ## ==
+0p50
